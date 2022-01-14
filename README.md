@@ -10,3 +10,5 @@ The code file consists of aspects that needs to be taken care of before applying
     Model Selection
     Hyperparameter Tuning
     Machine Learning Metrics
+
+Please find complete documentation of the code in the .docx file
